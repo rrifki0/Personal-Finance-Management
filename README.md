@@ -1,2 +1,9 @@
-# Personal-Finance-Management
-A personal finance management application built with Python and Tkinter to track and report daily incomes and expenses.
+# Kişisel Finans Takip Projesi
+
+Bu proje, gelir ve giderlerinizi takip etmenizi sağlar.
+
+## Çalıştırma
+
+1. Kütüphaneleri kurun: pip install -r requirements.txt
+
+2. Programı başlatın: python main.py
